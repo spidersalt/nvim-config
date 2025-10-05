@@ -1,5 +1,6 @@
 # nvim-config
-Neovim Configuration
+Neovim Configuration.
+
 This repository contains a custom Neovim configuration (init.lua) designed for efficient text editing, file navigation, and syntax highlighting. It uses modern Neovim plugins managed by lazy.nvim to provide a lightweight, extensible setup with a clean user interface.
 Features
 
