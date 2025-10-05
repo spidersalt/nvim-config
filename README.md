@@ -30,9 +30,13 @@ Treesitter: Configured for syntax highlighting and indentation across multiple l
 
 Install Neovim: Ensure you have Neovim (version 0.9 or later) installed. Download it from Neovim's GitHub releases or use a package manager:
 # On Ubuntu/Debian
+```
 sudo apt install neovim
+```
 # On macOS
+```
 brew install neovim
+```
 
 
 ## Clone this Repository:
